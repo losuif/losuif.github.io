@@ -27,7 +27,7 @@ facebook:
 logo: /assets/img/logo.jpg
 social:
   links: #List your social links here
-    - https://github.com/losuif
+    # - https://github.com/losuif
     # - https://twitter.com/PandaSekh
     # - https://www.linkedin.com/in/alessio-franceschi/
 webmaster_verifications:
