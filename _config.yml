@@ -27,9 +27,9 @@ facebook:
 logo: /assets/img/logo.jpg
 social:
   links: #List your social links here
-    - https://twitter.com/PandaSekh
     - https://github.com/losuif
-    - https://www.linkedin.com/in/alessio-franceschi/
+    # - https://twitter.com/PandaSekh
+    # - https://www.linkedin.com/in/alessio-franceschi/
 webmaster_verifications:
   google: 
   bing: 
