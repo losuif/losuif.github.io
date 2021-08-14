@@ -9,3 +9,5 @@ social:
   
   - {icon: 'envelope', type: "solid", link: 'mailto:ejins0193@gmail.com'}
   # - {icon: 'rss', type: "solid", link: "/feed.xml"}
+  - {icon: 'vimeo-v', type: "solid", link: 'https://velog.io/@losuif'}
+ 
