@@ -39,13 +39,17 @@ header{
                 display: block;
                 float: left;
                 a:hover{
-                    color: black;
+                    color: #fa0909;
+                    background-color: #FFE6E6;
                 }
                 a{
                     text-decoration: none;
-                    color: $base; 
-                    margin-right: 3px;
-                    font-size: 1.05rem;
+                    color: #FF2626;
+                    font-weight: bold;
+                    font-size: 25px;
+                    border: 5px solid #FFE6E6;
+                    border-radius: 10px;
+                    padding: 2px;
                 }
             }
             .social{
