@@ -64,13 +64,16 @@ header{
                     transition: .5s;
                 }
                 a{
-                    color: $base;
+                    color: #002366;
                 }
                 i{
                     font-size: 1.1rem;
                 }
                 #github:hover{
-                    color: $github;
+                    color: #0F52BA;
+                }
+                #vimeo-v:hover{
+                    color: #0F52BA;
                 }
                 #twitter:hover{
                     color: $twitter;
@@ -82,7 +85,7 @@ header{
                     color: $rss;
                 }
                 #envelope:hover{
-                    color: $mail;
+                    color: #0F52BA;
                 }
                 #instagram:hover{
                     color: $instagram;
