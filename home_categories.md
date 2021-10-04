@@ -3,7 +3,7 @@ layout: default
 title: Categories
 ---
 
-### [❤💻 Java](https://losuif.github.io/categories/#Java)
+### [🧡💻 Java](https://losuif.github.io/categories/#Java)
 
 ### [💙💻 Python](https://losuif.github.io/categories/#python)
 
