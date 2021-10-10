@@ -40,17 +40,18 @@ header{
                 display: block;
                 float: left;
                 a:hover{
-                    color: #fa0909;
-                    background-color: #FFE6E6;
+                    color: #3D087B;
+                    // background-color: #FFE6E6;
                 }
                 a{
                     text-decoration: none;
-                    color: #FF2626;
+                    color: #FFE459;
                     font-weight: bold;
-                    font-size: 15px;
-                    border: 3px solid #FFE6E6;
+                    font-size: 18px;
+                    background-color: #3D087B;
+                    // border: 3px solid #FFE6E6;
                     border-radius: 10px;
-                    padding: 5px;
+                    padding: 1px;
                 }
             }
             .social{
