@@ -1,6 +1,6 @@
 pages:
-  - {name: 'Categories', url: 'home_categories.html'}
-  - {name: 'Github', url: 'https://github.com/losuif'}
+  - {name: '🧐💻 CATEGORIES 👊🧐', url: 'home_categories.html'}
+  # - {name: 'Github', url: 'https://github.com/losuif'}
   
 #   - {name: 'Contact', url: 'contact.html'}
 #   - {name: 'Archive', url: 'archive.html'}
