@@ -3,13 +3,15 @@ layout: default
 title: Categories
 ---
 
-### [🧡💻 Java](https://losuif.github.io/categories/#Java)
+### [💖💻 Java](https://losuif.github.io/categories/#Java)
 
 ### [💙💻 Python](https://losuif.github.io/categories/#python)
 
 ### [💛💻 JavaScript](https://losuif.github.io/categories/#Javascript)
 
 ### [💚💻 Spring](https://losuif.github.io/categories/#Spring)
+
+### [🧡💻 JSP](https://losuif.github.io/categories/#jsp)
 
 
 
