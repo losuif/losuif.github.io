@@ -2,7 +2,6 @@
 <html>
 <head>
   {% include head.html %}
-  {% include analytics.html %}
 </head>
 <body>
 
@@ -11,6 +10,9 @@
 
     <div class="post-container">
       {{ content }}
+
+      {% include analytics.html %}
+
     </div>
   </div>
 
