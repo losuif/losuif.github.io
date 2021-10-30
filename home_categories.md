@@ -11,7 +11,7 @@ title: Categories
 
 ### [💚💻 Spring](https://losuif.github.io/categories/#Spring)
 
-### [🧡💻 JSP](https://losuif.github.io/categories/#JSP)
+### [🧡💻 JSP / Servlet](https://losuif.github.io/categories/#JSP/Servlet)
 
 
 
