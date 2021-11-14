@@ -13,6 +13,8 @@ title: Categories
 
 ### [🧡💻 JSP / Servlet](https://losuif.github.io/categories/#JSP/Servlet)
 
+### [🐬💻 MySQL](https://losuif.github.io/categories/#MySQL)
+
 
 
 <!-- # [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
