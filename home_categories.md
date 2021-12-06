@@ -3,17 +3,17 @@ layout: default
 title: Categories
 ---
 
-### [💖💻 Java](https://losuif.github.io/categories/#Java)
+### [☕ Java](https://losuif.github.io/categories/#Java)
 
-### [💙💻 Python](https://losuif.github.io/categories/#python)
+### [🐍 Python](https://losuif.github.io/categories/#python)
 
-### [💛💻 JavaScript](https://losuif.github.io/categories/#Javascript)
+### [🐣 JavaScript](https://losuif.github.io/categories/#Javascript)
 
-### [💚💻 Spring](https://losuif.github.io/categories/#Spring)
+### [🍃 Spring](https://losuif.github.io/categories/#Spring)
 
-### [🧡💻 JSP / Servlet](https://losuif.github.io/categories/#JSP/Servlet)
+### [🔗 JSP / Servlet](https://losuif.github.io/categories/#JSP/Servlet)
 
-### [🐬💻 MySQL](https://losuif.github.io/categories/#MySQL)
+### [🐬 MySQL](https://losuif.github.io/categories/#MySQL)
 
 
 
