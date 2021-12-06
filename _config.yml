@@ -1,6 +1,6 @@
 # Site settings
 title: 👩‍💻 Jinsol's Blog 👩‍💻
-description: "Tous les jours à tous points de vue je vais de mieux en mieux"
+description: ""
 url:  "https://losuif.github.io" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 # author:
