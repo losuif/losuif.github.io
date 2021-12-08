@@ -1,10 +1,10 @@
 ---
-title: "싱글톤 패턴 (Singleton Pattern)"
+title: "[디자인패텬] 싱글톤 패턴 (Singleton Pattern)"
 author: Jinsol
 categories: Spring
 tags: Spring
 date: '2021-10-18'
-image: /assets/img/springLogo.png
+# image: /assets/img/.png
 ---
 
 <br>
@@ -16,6 +16,8 @@ image: /assets/img/springLogo.png
 - 싱글톤으로 만들어진 클래스의 인스턴스는 전역 인스턴스 > 다른 클래스의 인스턴스들이 데이터를 공유하기 쉬움
 
 - 공통된 객체를 여러개 생성해서 사용해야 하는 상황에서 많이 사용
+
+- Spring에서 Bean은 기본적으로 싱글톤으로 관리됨
 
 <br>
 

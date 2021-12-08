@@ -1,15 +1,15 @@
 ---
-title: "어댑터 패턴 (Adapter Pattern)"
+title: "[디자인패텬] 어댑터 패턴 (Adapter Pattern)"
 author: Jinsol
-categories: Spring
-tags: Spring
+categories: etc DesignPattern
+tags: Spring Java DesignPattern
 date: '2021-10-18'
-image: /assets/img/springLogo.png
+# image: /assets/img/.png
 ---
 
 <br>
 
-- 서로 다른 인터페이스를 가진 두 클래스를 어댑터 클래스로 인터페이스를 통일 시켜 사용하는 방법
+- 서로 다른 인터페이스를 가진 두 클래스를 어댑터 클래스로 인터페이스를 통일 시켜 사용하는 방법 (호환성이 없는 인터페이스 때문에 함께 동작할 수 없는 클래스들이 함께 작동하도록 해줌)
 
 - ex)
 
@@ -25,7 +25,7 @@ image: /assets/img/springLogo.png
 
         ```java
         public interface Electronic220V {
-            void conenct();
+            void connect();
         }
         ```
 
@@ -47,8 +47,26 @@ image: /assets/img/springLogo.png
         public class AirConditioner implements Electronic220V{
 
             @Override
-            public void conenct() {
+            public void connect() {
                 System.out.println("220v 에어컨 ON");
+            }
+        }
+        ```
+
+    - (adapter class) SocketAdapter.java
+
+        ```java
+        public class SocketAdapter implements Electronic110V{
+
+            private Electronic220V electronic220V;
+
+            public SocketAdapter(Electronic220V electronic220V){
+                this.electronic220V = electronic220V;
+            }
+
+            @Override
+            public void powerOn() {
+                electronic220V.connect();
             }
         }
         ```

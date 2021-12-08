@@ -1,10 +1,10 @@
 ---
-title: "디자인 패턴"
+title: "[디자인패텬] 디자인 패턴 (Design Patern)"
 author: Jinsol
-categories: Spring
-tags: Spring
+categories: etc DesignPattern
+tags: Spring Java DesignPattern
 date: '2021-10-18'
-image: /assets/img/springLogo.png
+# image: /assets/img/.png
 ---
 
 <br>
@@ -34,7 +34,7 @@ image: /assets/img/springLogo.png
 
     - 객체지향 설계/구현 위주로 사용됨
 
-    - 초기 투자 비용 부담
+    - 초기 투자 비용 부담 (초기에 여러 구조를 설계하고 코딩해야 함)
 
 <br>
 
