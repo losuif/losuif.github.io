@@ -1,10 +1,10 @@
 ---
-title: "프록시 패턴 (Proxy Pattern)"
+title: "[디자인패턴] 프록시 패턴 (Proxy Pattern)"
 author: Jinsol
-categories: Spring
-tags: Spring
+categories: DesignPattern
+tags: Spring Java DesignPattern
 date: '2021-10-19'
-image: /assets/img/springLogo.png
+# image: /assets/img/.png
 ---
 
 <br>
@@ -15,7 +15,7 @@ image: /assets/img/springLogo.png
 
 - 실제 Client는 Proxy로 부터 결과를 받음
 
-- 스프링 AOP > 내가 원하는 메소드나 기능들, 흩어져있는 기능들을 동일하게 제공하는 역할을 프록시 패턴으로 사용
+- 스프링 AOP > 내가 원하는 메소드나 기능들, 흩어져있는 기능들을 동일하게 제공하는 역할을 프록시 패턴으로 사용 (AOP는 프록시 패턴을 활용 해 특정한 메소드 등에 앞뒤로 내가 원하는 기능을 넣을 수 있고, 흩어져있는 여러가지 공통된 기능을 하나로 묶어줄 수 있음)
 
 - ex)
 

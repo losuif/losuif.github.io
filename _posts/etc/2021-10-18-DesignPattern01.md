@@ -1,7 +1,7 @@
 ---
-title: "[디자인패텬] 디자인 패턴 (Design Patern)"
+title: "[디자인패턴] 디자인 패턴 (Design Patern)"
 author: Jinsol
-categories: etc DesignPattern
+categories: DesignPattern
 tags: Spring Java DesignPattern
 date: '2021-10-18'
 # image: /assets/img/.png

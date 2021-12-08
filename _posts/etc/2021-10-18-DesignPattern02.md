@@ -1,8 +1,8 @@
 ---
-title: "[디자인패텬] 싱글톤 패턴 (Singleton Pattern)"
+title: "[디자인패턴] 싱글톤 패턴 (Singleton Pattern)"
 author: Jinsol
-categories: Spring
-tags: Spring
+categories: DesignPattern
+tags: Spring Java DesignPattern
 date: '2021-10-18'
 # image: /assets/img/.png
 ---

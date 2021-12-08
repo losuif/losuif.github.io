@@ -1,7 +1,7 @@
 ---
-title: "[디자인패텬] 어댑터 패턴 (Adapter Pattern)"
+title: "[디자인패턴] 어댑터 패턴 (Adapter Pattern)"
 author: Jinsol
-categories: etc DesignPattern
+categories: DesignPattern
 tags: Spring Java DesignPattern
 date: '2021-10-18'
 # image: /assets/img/.png
