@@ -1,10 +1,10 @@
 ---
-title: "옵저버 패턴 (Observer Pattern)"
+title: "[디자인패턴] 옵저버 패턴 (Observer Pattern)"
 author: Jinsol
-categories: Spring
-tags: Spring
+categories: DesignPattern
+tags: Spring Java DesignPattern
 date: '2021-10-19'
-image: /assets/img/springLogo.png
+# image: /assets/img/.png
 ---
 
 <br>

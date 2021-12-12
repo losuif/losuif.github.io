@@ -1,10 +1,10 @@
 ---
-title: "데코레이터 패턴 (Decorator Pattern)"
+title: "[디자인패턴] 데코레이터 패턴 (Decorator Pattern)"
 author: Jinsol
-categories: Spring
-tags: Spring
+categories: DesignPattern
+tags: Spring Java DesignPattern
 date: '2021-10-19'
-image: /assets/img/springLogo.png
+# image: /assets/img/.png
 ---
 
 <br>
