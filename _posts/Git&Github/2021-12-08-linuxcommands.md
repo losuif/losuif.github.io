@@ -1,7 +1,7 @@
 ---
 title: "리눅스 명령어"
 author: Jinsol
-categories: 
+categories: Git/GitHub
 tags: 
 date: "2021-12-08"
 # image: /assets/img/
