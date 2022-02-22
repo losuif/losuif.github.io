@@ -15,6 +15,8 @@ date: "2021-12-08"
 
     - 현재 작업중인 디렉토리 정보
 
+    - window > `cd ,`
+
 - **cd** 
 
     - change directory
@@ -27,6 +29,8 @@ date: "2021-12-08"
 
         - cd- : 이전 디렉토리로 이동
 
+    - C드라이브에서 D드라이브로 이동 : `D:`
+
 - **ls**
 
     - list segments
@@ -34,6 +38,14 @@ date: "2021-12-08"
     - 디렉토리 목록 조회
 
     - window > `dir`
+
+    - 윈도우에서 ls 사용하기
+
+        - `doskey 바꿀명령어 = 기존명령어`
+
+        - doskey ls = dir
+
+        - 다시 dir로 바꾸기 : doskey dir = dir
     
 - **cp**
 
