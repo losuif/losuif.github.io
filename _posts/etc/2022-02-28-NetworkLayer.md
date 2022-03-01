@@ -83,3 +83,33 @@ date: '2022-02-28'
     - RARP (Reserve Address Resolution Protocol, 역 주소 프로토콜)
 
         - 저장 장치가 없는 네트워크 단말기 등이 IP 주소를 얻기 위해 사용
+
+<br>
+<br>
+
+## <span style="color:#5463FF">**💻 네트워크 계층 (Network Layer)**</span>
+<hr>
+
+- 데이터 패킷을 발신 단말로부터 여러 네트워크를 거쳐 착신 단말로 전달하는 기능을 담당
+
+- 발신지-대-목적지 전달 (source to destination delivery)
+
+- 네트워크 계층의 주요 기능
+
+    - 패킷 전달 경로 설정 : 시작 노드에서 도착 노드까지 전달되는 패킷의 최적 경로 설정
+
+    - 논리 주소 지정(Logical Addressing) : 상위 계층에서 받은 송신자와 수신자의 IP 주소를 패킷 헤더에 추가
+
+    - 라우팅(Routing) : 현재 노드에서 다음 노드까지 패킷을 전달할 때 여러 경로들 중 최적의 경로를 선택
+
+    - 주소 변환 : 수신자의 IP 주소를 보고 다음으로 송신되는 노드의 물리 주소를 찾아 패킷을 전달
+
+    - 다중화 : 여러 노드들에 전달되는 패킷들을 하나의 물리 회선을 통하여 동시에 전송하는 기능
+
+- 네트워크 계층의 주요 프로토콜
+
+    - ICMP (Internet Control Message Protocol) : 에러 발생 시 에러 발생 원인을 알려주거나 네트워크 상태를 진단해주는 기능
+
+    - IGMP (Internet Group Management Protocol) : 호스트(컴퓨터)가 멀티캐스트 그룹 구성원을 인접한 라우터에게 알리는 프로토콜
+
+    - IP (Internet Protocol) : 네트워크 기기에서 논리적 식별을 위한 주소 (IPv4, IPv6)
