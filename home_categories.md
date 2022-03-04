@@ -17,7 +17,7 @@ title: Categories
 
 ### [😺 Git & GitHub](https://losuif.github.io/categories/#Git/GitHub)
 
-### [🐿 HTTP](https://losuif.github.io/categories/#HTTP)
+### [🐹 HTTP](https://losuif.github.io/categories/#HTTP)
 
 
 
