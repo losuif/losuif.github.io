@@ -21,6 +21,8 @@ title: Categories
 
 ### [🍚 ABAP](https://losuif.github.io/categories/#SAP/ABAP)
 
+### [📚 정보처리기사](https://losuif.github.io/categories/#정보처리기사)
+
 
 
 <!-- # [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
