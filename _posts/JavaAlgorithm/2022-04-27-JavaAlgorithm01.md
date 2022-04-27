@@ -1,8 +1,8 @@
 ---
 title: "[자바 알고리즘 문제풀이] 특정 문자 개수 찾기"
 author: Jinsol
-categories: 정보처리기사
-tags: 정보처리기사
+categories: 자바알고리즘
+tags: 자바알고리즘
 date: '2022-04-27'
 # image: /assets/img/.png
 ---
