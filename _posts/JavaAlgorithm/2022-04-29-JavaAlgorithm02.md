@@ -23,6 +23,9 @@ date: '2022-04-29'
 
 <br>
 
+### <span style="color:#006E7F">**🔓 toUpperCase() / to LowerCase() 이용하기**</span>
+<hr>
+
 ```java
 import java.util.Scanner;
 
@@ -58,6 +61,46 @@ public class Main {
 ```
 
 <br>
+<br>
+
+### <span style="color:#006E7F">**🔓 아스키코드 이용하기**</span>
+<hr>
+
+```java
+import java.util.Scanner;
+
+public class Main {
+
+    public String solution(String str){
+        String answer = "";
+
+        //대문자 : 65~90
+        //소문자 : 97~122
+        for (char ch: str.toCharArray()) {
+
+            if (ch >= 65 && ch <= 90){
+                answer += (char)(ch + 32);
+
+            } else if (ch >= 97 && ch <= 122){
+                answer += (char)(ch - 32);
+            }
+        }
+
+        return answer;
+    }
+
+    public static void main(String[] args){
+
+        Main main = new Main();
+
+        Scanner scanner = new Scanner(System.in);
+        String str = scanner.next();
+        System.out.println(main.solution(str));
+    }
+}
+```
+
+<br>
 
 ```
 // 출력결과
@@ -68,3 +111,4 @@ java
 algorithm
 ALGORITHM
 ```
+
