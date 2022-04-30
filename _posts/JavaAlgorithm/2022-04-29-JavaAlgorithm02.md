@@ -56,3 +56,15 @@ public class Main {
     }
 }
 ```
+
+<br>
+
+```
+// 출력결과
+JAVA
+java
+
+// 출력결과
+algorithm
+ALGORITHM
+```
