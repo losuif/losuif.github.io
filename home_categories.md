@@ -23,6 +23,8 @@ title: Categories
 
 ### [📚 정보처리기사](https://losuif.github.io/categories/#정보처리기사)
 
+### [💻 자바 알고리즘](https://losuif.github.io/categories/#자바알고리즘)
+
 
 
 <!-- # [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
