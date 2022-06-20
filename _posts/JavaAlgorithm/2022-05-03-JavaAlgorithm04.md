@@ -140,3 +140,66 @@ class Main {
     - `.setCharAt(int idx, String s)` : idx 위치의 문자 s로 변경
 
     - `.setLength(int len)` : len 길이만큼 자르거나, 공백으로 채우기
+
+
+<br>
+<br>
+
+### <span style="color:#82A284">**🔓 toCharArray(), 값 교환 해 뒤집기**</span>
+<hr>
+
+```java
+import java.util.ArrayList;
+import java.util.Scanner;
+
+class Main {
+
+    public ArrayList<String> solution(int num, String[] str){
+        ArrayList<String> answer = new ArrayList<>();
+
+        for (String x : str) {
+            char[] ch = x.toCharArray();
+
+            int lt = 0;
+            int rt = x.length() - 1;
+
+            while (lt < rt) {
+                // lt, rt 값 교환
+                char temp = ch[lt];
+                ch[lt] = ch[rt];
+                ch[rt] = temp;
+                
+                lt++;
+                rt--;
+            }
+            String temp = String.valueOf(ch);
+            answer.add(temp);
+        }
+        return answer;
+    }
+
+    public static void main(String[] args) {
+        Main main = new Main();
+
+        Scanner scanner = new Scanner(System.in);
+
+        int num = scanner.nextInt();
+        String[] str = new String[num];
+
+        for (int i = 0; i < num; i++) {
+            str[i] = scanner.next();
+        }
+
+        for (String x : main.solution(num, str)) {
+            System.out.println(x);
+        }
+    }
+}
+```
+
+<br>
+
+### <span style="color:#82A284">**🔑 toCharArray()**</span>
+<hr>
+
+> [charAt() / toCharArray()](https://losuif.github.io/2022/04/27/JavaAlgorithm01.html)
