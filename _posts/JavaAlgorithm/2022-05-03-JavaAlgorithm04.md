@@ -1,5 +1,5 @@
 ---
-title: "[자바 알고리즘 문제풀이] 단어 뒤집어서 출력하기 / StringBuilder"
+title: "[자바 알고리즘 문제풀이] 단어 뒤집어서 출력하기 / StringBuilder / toCharArray()"
 author: Jinsol
 categories: 자바알고리즘
 tags: 자바알고리즘

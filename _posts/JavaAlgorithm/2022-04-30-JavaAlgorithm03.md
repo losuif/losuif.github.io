@@ -1,5 +1,5 @@
 ---
-title: "[자바 알고리즘 문제풀이] 가장 긴 단어 찾기"
+title: "[자바 알고리즘 문제풀이] 가장 긴 단어 찾기 / .split(), indexOf(), substring()"
 author: Jinsol
 categories: 자바알고리즘
 tags: 자바알고리즘
