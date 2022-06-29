@@ -21,6 +21,11 @@ date: '2022-06-24'
 
 > 대소문자에 관계없이 문자열을 앞뒤로 뒤집었을 때 같으면 SUCCESS, 다르면 FAIL을 출력해보자. 
 
+<br>
+
+### <span style="color:#937DC2">**🔓 .charAt()**</span>
+<hr>
+
 ```java
 import java.util.Scanner;
 
@@ -34,6 +39,37 @@ class Main {
         for (int i = 0; i < len / 2; i++) {
             if (str.charAt(i) != str.charAt(len - i - 1)) return "FAIL";
         }
+
+        return answer;
+    }
+
+    public static void main(String[] args) {
+        Main main = new Main();
+
+        Scanner scanner = new Scanner(System.in);
+        String str = scanner.nextLine();
+
+        System.out.println(main.solution(str));
+    }
+}
+```
+
+<br>
+<br>
+
+### <span style="color:#937DC2">**🔓 StringBuilder()**</span>
+<hr>
+
+```java
+import java.util.Scanner;
+
+class Main {
+
+    public String solution(String str){
+        String answer = "FAIL";
+        String temp = new StringBuilder(str).reverse().toString();
+
+        if (str.equalsIgnoreCase(temp)) answer = "SUCCESS";
 
         return answer;
     }
