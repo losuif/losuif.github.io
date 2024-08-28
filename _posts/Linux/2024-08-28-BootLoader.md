@@ -8,10 +8,9 @@ date: '2024-08-28'
 ---
 
 <br>
-<hr>
-<br>
 
 # <span style="color:#387F39">🐧 부트로더(BootLloader)</span>
+<hr>
 
 - = 부트스트랩 로더(Bootstrap Loader) = 부트 매니저(Boot Manager)
 
@@ -28,10 +27,10 @@ date: '2024-08-28'
 - 리눅스 운영체제에 한정되어 사용되는 <span style="color:#387F39">LILO(LInux LOader)</span>와 리눅스 운영체제 외 다른 운영체제에서도 사용 가능한 <span style="color:#387F39">GRUB(GRand Unified Bootloader)</span>
 
 <br>
-<hr>
 <br>
 
 # <span style="color:#387F39">🐧 GRUB(GRand Unified Bootloader)</span>
+<hr>
 
 - 리눅스 부팅 시 처음 나오는 선택 화면
 
