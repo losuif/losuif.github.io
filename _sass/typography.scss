@@ -33,8 +33,9 @@ p, ul, ol{
     li{
       font-size: 1.15rem;
     }
-    table{
+    table, th, td{
         border: 1px, solid;
+        border-collapse: collapse;
     }
 }
 
